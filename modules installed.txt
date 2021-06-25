@@ -1,0 +1,3 @@
+flask
+sql alchemy
+jinja 2
